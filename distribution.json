@@ -5948,6 +5948,39 @@
           }
         },
         {
+          "id": "corpse-server.toml",
+          "name": "corpse-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 840,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/defaultconfigs/corpse-server.toml",
+            "MD5": "452a0f7965bab6cc26681e00d8bd3248",
+            "path": "defaultconfigs/corpse-server.toml"
+          }
+        },
+        {
+          "id": "immersiveengineering-server.toml",
+          "name": "immersiveengineering-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 17457,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/defaultconfigs/immersiveengineering-server.toml",
+            "MD5": "5bde5561312d91aae53549b4b6f456df",
+            "path": "defaultconfigs/immersiveengineering-server.toml"
+          }
+        },
+        {
+          "id": "morpheus-server.toml",
+          "name": "morpheus-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 724,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/defaultconfigs/morpheus-server.toml",
+            "MD5": "a92dffa8f39a85d38c94b63f02614390",
+            "path": "defaultconfigs/morpheus-server.toml"
+          }
+        },
+        {
           "id": "AutoRegLib-1.6-49.jar",
           "name": "AutoRegLib-1.6-49.jar",
           "type": "File",
@@ -6363,6 +6396,281 @@
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/mods/valkyrielib-1.16.5-3.0.9.5.jar",
             "MD5": "03a96203953cb2d7848a90c5d2db01e6",
             "path": "mods/valkyrielib-1.16.5-3.0.9.5.jar"
+          }
+        },
+        {
+          "id": "00_remove_recipes.zs",
+          "name": "00_remove_recipes.zs",
+          "type": "File",
+          "artifact": {
+            "size": 43528,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/00_remove_recipes.zs",
+            "MD5": "eb6ba352507849c2737760e2db6f7487",
+            "path": "scripts/00_remove_recipes.zs"
+          }
+        },
+        {
+          "id": "Botania.zs",
+          "name": "Botania.zs",
+          "type": "File",
+          "artifact": {
+            "size": 17698,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Botania.zs",
+            "MD5": "7d84caa03f68243f444215aff1c9c774",
+            "path": "scripts/Botania.zs"
+          }
+        },
+        {
+          "id": "Danks_Backpacks.zs",
+          "name": "Danks_Backpacks.zs",
+          "type": "File",
+          "artifact": {
+            "size": 7265,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Danks_Backpacks.zs",
+            "MD5": "7179146c985d8bae58836e89451fd125",
+            "path": "scripts/Danks_Backpacks.zs"
+          }
+        },
+        {
+          "id": "Dark_Utils.zs",
+          "name": "Dark_Utils.zs",
+          "type": "File",
+          "artifact": {
+            "size": 4246,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Dark_Utils.zs",
+            "MD5": "7293860366ba18e23c5ec4c371346884",
+            "path": "scripts/Dark_Utils.zs"
+          }
+        },
+        {
+          "id": "Drawers.zs",
+          "name": "Drawers.zs",
+          "type": "File",
+          "artifact": {
+            "size": 26043,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Drawers.zs",
+            "MD5": "a13f81f5613e8bdbb40819fb31fcc9cb",
+            "path": "scripts/Drawers.zs"
+          }
+        },
+        {
+          "id": "Easy_villagers.zs",
+          "name": "Easy_villagers.zs",
+          "type": "File",
+          "artifact": {
+            "size": 2609,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Easy_villagers.zs",
+            "MD5": "f844ac5450e73164a723ef756cffb171",
+            "path": "scripts/Easy_villagers.zs"
+          }
+        },
+        {
+          "id": "Flux_networks.zs",
+          "name": "Flux_networks.zs",
+          "type": "File",
+          "artifact": {
+            "size": 2769,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Flux_networks.zs",
+            "MD5": "d21cfa3ed66df3d0bc838fccb1625c72",
+            "path": "scripts/Flux_networks.zs"
+          }
+        },
+        {
+          "id": "Immersive.zs",
+          "name": "Immersive.zs",
+          "type": "File",
+          "artifact": {
+            "size": 12932,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Immersive.zs",
+            "MD5": "d8210e23ed7a6216d1825c0d9fcfeb85",
+            "path": "scripts/Immersive.zs"
+          }
+        },
+        {
+          "id": "Industrial.zs",
+          "name": "Industrial.zs",
+          "type": "File",
+          "artifact": {
+            "size": 11464,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Industrial.zs",
+            "MD5": "fd0da2890338098d163222369595ec6d",
+            "path": "scripts/Industrial.zs"
+          }
+        },
+        {
+          "id": "Iron_jetpacks.zs",
+          "name": "Iron_jetpacks.zs",
+          "type": "File",
+          "artifact": {
+            "size": 2062,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Iron_jetpacks.zs",
+            "MD5": "dc99f864d2d77d86595a454e95757bdd",
+            "path": "scripts/Iron_jetpacks.zs"
+          }
+        },
+        {
+          "id": "Mekanism.zs",
+          "name": "Mekanism.zs",
+          "type": "File",
+          "artifact": {
+            "size": 14871,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Mekanism.zs",
+            "MD5": "1c37c6f5c66fce05ed023c416342085f",
+            "path": "scripts/Mekanism.zs"
+          }
+        },
+        {
+          "id": "Minecraft.zs",
+          "name": "Minecraft.zs",
+          "type": "File",
+          "artifact": {
+            "size": 19144,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Minecraft.zs",
+            "MD5": "13076af88ba4f89a6dbbc51b4e3321eb",
+            "path": "scripts/Minecraft.zs"
+          }
+        },
+        {
+          "id": "Mining_Building_Gadget.zs",
+          "name": "Mining_Building_Gadget.zs",
+          "type": "File",
+          "artifact": {
+            "size": 3918,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Mining_Building_Gadget.zs",
+            "MD5": "c7a7b7262316770b0e5c37386971e226",
+            "path": "scripts/Mining_Building_Gadget.zs"
+          }
+        },
+        {
+          "id": "Modular_routers.zs",
+          "name": "Modular_routers.zs",
+          "type": "File",
+          "artifact": {
+            "size": 3789,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Modular_routers.zs",
+            "MD5": "4bb825bba7b1b7beeb5c4f4c9fb68df0",
+            "path": "scripts/Modular_routers.zs"
+          }
+        },
+        {
+          "id": "Powah.zs",
+          "name": "Powah.zs",
+          "type": "File",
+          "artifact": {
+            "size": 5742,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Powah.zs",
+            "MD5": "ffcedc597a4d602815e0c2089d0dbdf4",
+            "path": "scripts/Powah.zs"
+          }
+        },
+        {
+          "id": "RfTools.zs",
+          "name": "RfTools.zs",
+          "type": "File",
+          "artifact": {
+            "size": 8196,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/RfTools.zs",
+            "MD5": "ced306f3d683705eca61ff1401f802a2",
+            "path": "scripts/RfTools.zs"
+          }
+        },
+        {
+          "id": "The_Vault.zs",
+          "name": "The_Vault.zs",
+          "type": "File",
+          "artifact": {
+            "size": 11838,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/The_Vault.zs",
+            "MD5": "8cb65ca5f0b9134ad7fe74041faf7b35",
+            "path": "scripts/The_Vault.zs"
+          }
+        },
+        {
+          "id": "Thermal.zs",
+          "name": "Thermal.zs",
+          "type": "File",
+          "artifact": {
+            "size": 5849,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Thermal.zs",
+            "MD5": "42cd48e7a8ec85076cb65b75347a0036",
+            "path": "scripts/Thermal.zs"
+          }
+        },
+        {
+          "id": "Xnet.zs",
+          "name": "Xnet.zs",
+          "type": "File",
+          "artifact": {
+            "size": 4674,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/Xnet.zs",
+            "MD5": "fdbe5dce49c400cafde5825b7fb1e5fa",
+            "path": "scripts/Xnet.zs"
+          }
+        },
+        {
+          "id": "ae2.zs",
+          "name": "ae2.zs",
+          "type": "File",
+          "artifact": {
+            "size": 11531,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/ae2.zs",
+            "MD5": "1de991f1d148747111f2628070b6c0ac",
+            "path": "scripts/ae2.zs"
+          }
+        },
+        {
+          "id": "create.zs",
+          "name": "create.zs",
+          "type": "File",
+          "artifact": {
+            "size": 17758,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/create.zs",
+            "MD5": "8cf080c890539493ed6f34a3612b64ec",
+            "path": "scripts/create.zs"
+          }
+        },
+        {
+          "id": "pretty_pipes.zs",
+          "name": "pretty_pipes.zs",
+          "type": "File",
+          "artifact": {
+            "size": 2964,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/pretty_pipes.zs",
+            "MD5": "9be9fc9c5d67b687b806eff91dd73e06",
+            "path": "scripts/pretty_pipes.zs"
+          }
+        },
+        {
+          "id": "rs.zs",
+          "name": "rs.zs",
+          "type": "File",
+          "artifact": {
+            "size": 12293,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/rs.zs",
+            "MD5": "38e9a0d93d3c2967d505ea789fe8e0df",
+            "path": "scripts/rs.zs"
+          }
+        },
+        {
+          "id": "small_random.zs",
+          "name": "small_random.zs",
+          "type": "File",
+          "artifact": {
+            "size": 25887,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/small_random.zs",
+            "MD5": "196049d9dfecb81b9508e17113ae1519",
+            "path": "scripts/small_random.zs"
+          }
+        },
+        {
+          "id": "temp.zs",
+          "name": "temp.zs",
+          "type": "File",
+          "artifact": {
+            "size": 4932,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/temp.zs",
+            "MD5": "e0893eaf9bcad96219b4a296b1296cbd",
+            "path": "scripts/temp.zs"
           }
         },
         {
