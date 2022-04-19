@@ -4453,28 +4453,6 @@
           }
         },
         {
-          "id": "simplyseasons-client.toml",
-          "name": "simplyseasons-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 845,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/config/simplyseasons-client.toml",
-            "MD5": "5548a7cb99e52516e209a5a869255ee0",
-            "path": "config/simplyseasons-client.toml"
-          }
-        },
-        {
-          "id": "simplyseasons-common.toml",
-          "name": "simplyseasons-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 521,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/config/simplyseasons-common.toml",
-            "MD5": "d3b189ac4d9ac6b3e0db10e2ac97f446",
-            "path": "config/simplyseasons-common.toml"
-          }
-        },
-        {
           "id": "snad-common.toml",
           "name": "snad-common.toml",
           "type": "File",
