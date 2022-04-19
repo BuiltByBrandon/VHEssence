@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/Users/guzma/Documents/Studz/StudzDistro/VHEssence/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "VHEssence (Minecraft 1.16.5)",
+    "description": "VHEssence Running Minecraft 1.16.5 (Forge v36.2.33)",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "",
+      "largeImageText": "",
+      "largeImageKey": ""
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "36.2.33"
+  },
+  "untrackedFiles": []
+}
