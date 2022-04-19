@@ -5883,28 +5883,6 @@
           }
         },
         {
-          "id": "xaerominimap.txt",
-          "name": "xaerominimap.txt",
-          "type": "File",
-          "artifact": {
-            "size": 2365,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/config/xaerominimap.txt",
-            "MD5": "72a6233babe9ea846a454855addc6f15",
-            "path": "config/xaerominimap.txt"
-          }
-        },
-        {
-          "id": "xaerominimap_entities.json",
-          "name": "xaerominimap_entities.json",
-          "type": "File",
-          "artifact": {
-            "size": 4144,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/config/xaerominimap_entities.json",
-            "MD5": "88757c8f573e398692a2953ad89a8f2c",
-            "path": "config/xaerominimap_entities.json"
-          }
-        },
-        {
           "id": "xaeropatreon.txt",
           "name": "xaeropatreon.txt",
           "type": "File",
