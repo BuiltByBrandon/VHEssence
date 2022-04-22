@@ -10,7 +10,7 @@
       "largeImageText": "",
       "largeImageKey": ""
     },
-    "mainServer": false,
+    "mainServer": true,
     "autoconnect": false
   },
   "forge": {

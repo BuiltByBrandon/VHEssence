@@ -1,11 +1,11 @@
 {
   "$schema": "file:///C:/Users/guzma/Documents/Studz/StudzDistro/VHEssence/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "<LINK TO RSS FEED>",
+    "rss": "https://github.com/BuiltByBrandon/VHEssence/commits.atom",
     "discord": {
-      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "clientId": "805250146614116352",
+      "smallImageText": "Vaulthunting on EssenceSMP",
+      "smallImageKey": "sealcircle"
     }
   }
 }
