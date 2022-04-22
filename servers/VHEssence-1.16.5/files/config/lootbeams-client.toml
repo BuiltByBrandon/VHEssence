@@ -21,7 +21,7 @@
 	#Range: 0.0 ~ 24.0
 	render_distance = 24.0
 	#Overrides an item's beam color with hex color. Must follow the specific format: (registryname=hexcolor) Or (#tagname=hexcolor). Example: "minecraft:stone=0xFFFFFF". This also accepts modids.
-	color_overrides = [the_vault:vault_crate=0xffd700]
+	color_overrides = ["the_vault:vault_crate=0xffd700"]
 
 	#Item Config
 	["Loot Beams".Items]

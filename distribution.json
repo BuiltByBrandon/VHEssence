@@ -351,6 +351,16 @@
           ]
         },
         {
+          "id": "generated.forgemod:_mixinbootstrap:1.1.0@jar",
+          "name": "_MixinBootstrap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1119478,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/_MixinBootstrap-1.1.0.jar",
+            "MD5": "9df0dc628ebcd787270f487fbbf8157a"
+          }
+        },
+        {
           "id": "com.endertech.minecraft.mods:adchimneys:6.0.12.3@jar",
           "name": "Advanced Chimneys",
           "type": "ForgeMod",
@@ -1086,6 +1096,26 @@
           }
         },
         {
+          "id": "tfar.fastbenchminusreplacement:fastbenchminusreplacement:1.4@jar",
+          "name": "FastWorkbench Minus Replacement",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20615,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/fastbenchminusreplacement-1.4.jar",
+            "MD5": "7f9e3fe3d577ea1c910e3ad005e29e1f"
+          }
+        },
+        {
+          "id": "tfar.fastfurnaceminusreplacement:fastfurnaceminusreplacement:1.1-1.16.3@jar",
+          "name": "Fast Furnace Minus Replacement",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6039,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/fastfurnaceminusreplacement-1.1-1.16.3.jar",
+            "MD5": "9b0980bd08ffd1b5f445014cd4a33e0c"
+          }
+        },
+        {
           "id": "net.olafkeijsers:fastleafdecay:v25.2@jar",
           "name": "FastLeafDecay",
           "type": "ForgeMod",
@@ -1093,16 +1123,6 @@
             "size": 8630,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/FastLeafDecay-v25.2.jar",
             "MD5": "0d5806c3a73cf519264877db959823f3"
-          }
-        },
-        {
-          "id": "shadows.fastbench:fastbench:4.6.1@jar",
-          "name": "Fast Workbench",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 22218,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/FastWorkbench-1.16.5-4.6.1.jar",
-            "MD5": "7d30ac35d8269cdb7a474fb7e8981723"
           }
         },
         {
@@ -1761,20 +1781,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6046996,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionaloff/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -4107,9 +4113,9 @@
           "name": "lootbeams-client.toml",
           "type": "File",
           "artifact": {
-            "size": 3101,
+            "size": 3103,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/config/lootbeams-client.toml",
-            "MD5": "352364d7cc119d65bd7eccb7e16ca574",
+            "MD5": "06edb5841b0ef63a2164ec22424c25ee",
             "path": "config/lootbeams-client.toml"
           }
         },
@@ -6157,6 +6163,17 @@
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/mods/OpenLoader-1.16.5-9.0.3.jar",
             "MD5": "2a30d8f469ea9bf212d7d7835a5c04a4",
             "path": "mods/OpenLoader-1.16.5-9.0.3.jar"
+          }
+        },
+        {
+          "id": "OptiFine_1.16.5_HD_U_G8.jar",
+          "name": "OptiFine_1.16.5_HD_U_G8.jar",
+          "type": "File",
+          "artifact": {
+            "size": 6046996,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/mods/OptiFine_1.16.5_HD_U_G8.jar",
+            "MD5": "e0717ba6d1674af83036ebc479fc77b4",
+            "path": "mods/OptiFine_1.16.5_HD_U_G8.jar"
           }
         },
         {
