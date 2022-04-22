@@ -1086,26 +1086,6 @@
           }
         },
         {
-          "id": "tfar.fastbenchminusreplacement:fastbenchminusreplacement:1.4@jar",
-          "name": "FastWorkbench Minus Replacement",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 20615,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/fastbenchminusreplacement-1.4.jar",
-            "MD5": "7f9e3fe3d577ea1c910e3ad005e29e1f"
-          }
-        },
-        {
-          "id": "tfar.fastfurnaceminusreplacement:fastfurnaceminusreplacement:1.1-1.16.3@jar",
-          "name": "Fast Furnace Minus Replacement",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6039,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/fastfurnaceminusreplacement-1.1-1.16.3.jar",
-            "MD5": "9b0980bd08ffd1b5f445014cd4a33e0c"
-          }
-        },
-        {
           "id": "net.olafkeijsers:fastleafdecay:v25.2@jar",
           "name": "FastLeafDecay",
           "type": "ForgeMod",
@@ -1113,6 +1093,16 @@
             "size": 8630,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/FastLeafDecay-v25.2.jar",
             "MD5": "0d5806c3a73cf519264877db959823f3"
+          }
+        },
+        {
+          "id": "shadows.fastbench:fastbench:4.6.1@jar",
+          "name": "Fast Workbench",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22218,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/FastWorkbench-1.16.5-4.6.1.jar",
+            "MD5": "7d30ac35d8269cdb7a474fb7e8981723"
           }
         },
         {
@@ -6219,17 +6209,6 @@
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/mods/YungsApi-1.16.4-Forge-13.jar",
             "MD5": "d9bb57c12da921556bfd981c37f9a49a",
             "path": "mods/YungsApi-1.16.4-Forge-13.jar"
-          }
-        },
-        {
-          "id": "_MixinBootstrap-1.1.0.jar",
-          "name": "_MixinBootstrap-1.1.0.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1119478,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/mods/_MixinBootstrap-1.1.0.jar",
-            "MD5": "9df0dc628ebcd787270f487fbbf8157a",
-            "path": "mods/_MixinBootstrap-1.1.0.jar"
           }
         },
         {
