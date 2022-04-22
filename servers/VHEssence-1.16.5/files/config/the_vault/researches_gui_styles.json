@@ -317,63 +317,63 @@
     },
     "Building Gadgets": {
       "x": 200,
-      "y": 320,
+      "y": 360,
       "frameType": "RECTANGULAR",
       "u": 16,
       "v": 16
     },
     "Botania": {
       "x": 250,
-      "y": 320,
+      "y": 360,
       "frameType": "RECTANGULAR",
       "u": 16,
       "v": 32
     },
     "Jetpacks": {
       "x": 300,
-      "y": 320,
+      "y": 360,
       "frameType": "RECTANGULAR",
       "u": 16,
       "v": 48
     },
     "Backpacks": {
       "x": 200,
-      "y": 360,
+      "y": 400,
       "frameType": "RECTANGULAR",
       "u": 16,
       "v": 64
     },
     "Danks": {
       "x": 250,
-      "y": 360,
+      "y": 400,
       "frameType": "RECTANGULAR",
       "u": 16,
       "v": 80
     },
     "Extendo Arm": {
       "x": 300,
-      "y": 360,
+      "y": 400,
       "frameType": "RECTANGULAR",
       "u": 16,
       "v": 96
     },
     "Powerful Arrows": {
       "x": 200,
-      "y": 400,
+      "y": 440,
       "frameType": "RECTANGULAR",
       "u": 16,
       "v": 112
     },
     "Vault Blacksmith": {
       "x": 250,
-      "y": 400,
+      "y": 440,
       "frameType": "RECTANGULAR",
       "u": 16,
       "v": 128
     },
     "Vault Powerups": {
       "x": 300,
-      "y": 400,
+      "y": 440,
       "frameType": "RECTANGULAR",
       "u": 16,
       "v": 144
