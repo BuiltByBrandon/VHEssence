@@ -717,6 +717,16 @@
           }
         },
         {
+          "id": "com.connectivity:connectivity:2.4-1.16.5@jar",
+          "name": "Connectivity Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 53113,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/connectivity-2.4-1.16.5%20(1).jar",
+            "MD5": "1991b06777e738e93a904fd3525bde4e"
+          }
+        },
+        {
           "id": "com.blamejared:controlling:7.0.0.28@jar",
           "name": "Controlling",
           "type": "ForgeMod",
@@ -1426,6 +1436,16 @@
             "size": 10912142,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/lightmansdiscord-1.16.4-0.0.3.1-server.jar",
             "MD5": "f2e39a7d0d16cc0c14b764127877dae7"
+          }
+        },
+        {
+          "id": "melonslise.locks:locks:3.0.3@jar",
+          "name": "Locks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 595126,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/locks-1.16.5-3.0.3.jar",
+            "MD5": "9bfd12da806ee085e726b826cfc2ca74"
           }
         },
         {
@@ -4318,6 +4338,17 @@
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/config/quark-common.toml",
             "MD5": "770a35e43bb6a37635363632e77211b9",
             "path": "config/quark-common.toml"
+          }
+        },
+        {
+          "id": "randompatches.toml",
+          "name": "randompatches.toml",
+          "type": "File",
+          "artifact": {
+            "size": 15773,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/config/randompatches.toml",
+            "MD5": "c88532f40645e4904d65d36687c8d907",
+            "path": "config/randompatches.toml"
           }
         },
         {
