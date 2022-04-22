@@ -351,16 +351,6 @@
           ]
         },
         {
-          "id": "generated.forgemod:_mixinbootstrap:1.1.0@jar",
-          "name": "_MixinBootstrap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1119478,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/_MixinBootstrap-1.1.0.jar",
-            "MD5": "9df0dc628ebcd787270f487fbbf8157a"
-          }
-        },
-        {
           "id": "com.endertech.minecraft.mods:adchimneys:6.0.12.3@jar",
           "name": "Advanced Chimneys",
           "type": "ForgeMod",
@@ -1093,26 +1083,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "tfar.fastbenchminusreplacement:fastbenchminusreplacement:1.4@jar",
-          "name": "FastWorkbench Minus Replacement",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 20615,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/fastbenchminusreplacement-1.4.jar",
-            "MD5": "7f9e3fe3d577ea1c910e3ad005e29e1f"
-          }
-        },
-        {
-          "id": "tfar.fastfurnaceminusreplacement:fastfurnaceminusreplacement:1.1-1.16.3@jar",
-          "name": "Fast Furnace Minus Replacement",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6039,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/fastfurnaceminusreplacement-1.1-1.16.3.jar",
-            "MD5": "9b0980bd08ffd1b5f445014cd4a33e0c"
           }
         },
         {
