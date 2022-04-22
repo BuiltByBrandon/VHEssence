@@ -351,16 +351,6 @@
           ]
         },
         {
-          "id": "generated.forgemod:_mixinbootstrap:1.1.0@jar",
-          "name": "_MixinBootstrap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1119478,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/_MixinBootstrap-1.1.0.jar",
-            "MD5": "9df0dc628ebcd787270f487fbbf8157a"
-          }
-        },
-        {
           "id": "com.endertech.minecraft.mods:adchimneys:6.0.12.3@jar",
           "name": "Advanced Chimneys",
           "type": "ForgeMod",
@@ -6229,6 +6219,17 @@
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/mods/YungsApi-1.16.4-Forge-13.jar",
             "MD5": "d9bb57c12da921556bfd981c37f9a49a",
             "path": "mods/YungsApi-1.16.4-Forge-13.jar"
+          }
+        },
+        {
+          "id": "_MixinBootstrap-1.1.0.jar",
+          "name": "_MixinBootstrap-1.1.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1119478,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/mods/_MixinBootstrap-1.1.0.jar",
+            "MD5": "9df0dc628ebcd787270f487fbbf8157a",
+            "path": "mods/_MixinBootstrap-1.1.0.jar"
           }
         },
         {
