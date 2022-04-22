@@ -3598,9 +3598,9 @@
           "name": "forge-client.toml",
           "type": "File",
           "artifact": {
-            "size": 1358,
+            "size": 1357,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/config/forge-client.toml",
-            "MD5": "7f8be7c5a5bdc3d76cac6dc4bed6629b",
+            "MD5": "e9cf23273990c2629cdad45b3db6aa38",
             "path": "config/forge-client.toml"
           }
         },
@@ -3642,9 +3642,9 @@
           "name": "immersiveengineering-client.toml",
           "type": "File",
           "artifact": {
-            "size": 2389,
+            "size": 2388,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/config/immersiveengineering-client.toml",
-            "MD5": "81fda5caefba9caf5f8b06fd615a6b77",
+            "MD5": "c473b8bf164e687d1ca667f015b1b1a4",
             "path": "config/immersiveengineering-client.toml"
           }
         },
