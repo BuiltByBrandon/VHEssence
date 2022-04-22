@@ -351,6 +351,16 @@
           ]
         },
         {
+          "id": "generated.forgemod:_mixinbootstrap:1.1.0@jar",
+          "name": "_MixinBootstrap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1119478,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/_MixinBootstrap-1.1.0.jar",
+            "MD5": "9df0dc628ebcd787270f487fbbf8157a"
+          }
+        },
+        {
           "id": "com.endertech.minecraft.mods:adchimneys:6.0.12.3@jar",
           "name": "Advanced Chimneys",
           "type": "ForgeMod",
@@ -757,6 +767,19 @@
           }
         },
         {
+          "id": "com.gitlab.cdagaming:craftpresence:1.8.8@jar",
+          "name": "CraftPresence",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 849590,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionalon/CraftPresence-Forge-1.16.5-Release-1.8.8.jar",
+            "MD5": "d4fd476788a3b9a1d655ad2c1a50b1f0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.blamejared:crafttweaker:7.1.2.508@jar",
           "name": "CraftTweaker",
           "type": "ForgeMod",
@@ -877,6 +900,20 @@
           }
         },
         {
+          "id": "com.seibel:lod:1.6.2a@jar",
+          "name": "Distant Horizons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2196672,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionaloff/DistantHorizons-1.6.2a-1.16.5.jar",
+            "MD5": "ca585d9d7001eb4023fed5392e7ea2cd"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "com.drawerfps:drawerfps:2.1@jar",
           "name": "Drawer FPS",
           "type": "ForgeMod",
@@ -902,8 +939,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 122118,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/dynamiclightsreforged-mc1.16.5_v1.0.1.jar",
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionalon/dynamiclightsreforged-mc1.16.5_v1.0.1.jar",
             "MD5": "1cda780a90261f66a3a3b5dce12b903c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1040,6 +1080,39 @@
             "size": 814676,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/fairylights-4.0.5-1.16.5.jar",
             "MD5": "405cfba442fbfed33f68428fe202f9b9"
+          }
+        },
+        {
+          "id": "com.farsight:farsight_view:1.7@jar",
+          "name": "Farsight mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10183,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionalon/farsight-1.7.jar",
+            "MD5": "8b538b241feaa474dc661b4523c18fb6"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "tfar.fastbenchminusreplacement:fastbenchminusreplacement:1.4@jar",
+          "name": "FastWorkbench Minus Replacement",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20615,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/fastbenchminusreplacement-1.4.jar",
+            "MD5": "7f9e3fe3d577ea1c910e3ad005e29e1f"
+          }
+        },
+        {
+          "id": "tfar.fastfurnaceminusreplacement:fastfurnaceminusreplacement:1.1-1.16.3@jar",
+          "name": "Fast Furnace Minus Replacement",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6039,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/fastfurnaceminusreplacement-1.1-1.16.3.jar",
+            "MD5": "9b0980bd08ffd1b5f445014cd4a33e0c"
           }
         },
         {
@@ -1715,6 +1788,33 @@
             "size": 178345,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionalon/notenoughcrashes-4.1.4+1.16.5-forge.jar",
             "MD5": "cd515cc366e4e3a70abcacaf1feeac2d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6046996,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionaloff/OptiFine_1.16.5_HD_U_G8.jar",
+            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "com.corosus:out_of_sight:1.16.4-1.0.1@jar",
+          "name": "Out of Sight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13677,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionalon/out_of_sight-1.16.4-1.0.1.jar",
+            "MD5": "d494971448034973678c24171f3e5479"
           },
           "required": {
             "value": false
@@ -4033,6 +4133,17 @@
           }
         },
         {
+          "id": "lootbeams-client.toml",
+          "name": "lootbeams-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3101,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/config/lootbeams-client.toml",
+            "MD5": "352364d7cc119d65bd7eccb7e16ca574",
+            "path": "config/lootbeams-client.toml"
+          }
+        },
+        {
           "id": "mcjtylib-client.toml",
           "name": "mcjtylib-client.toml",
           "type": "File",
@@ -4961,9 +5072,9 @@
           "name": "researches.json",
           "type": "File",
           "artifact": {
-            "size": 34400,
+            "size": 34399,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/config/the_vault/researches.json",
-            "MD5": "d7182497c2245f7052e003d1e996f263",
+            "MD5": "680143b836a7cb1bfb04aa17b53e70b8",
             "path": "config/the_vault/researches.json"
           }
         },
