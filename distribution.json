@@ -1764,6 +1764,19 @@
           }
         },
         {
+          "id": "com.sintinium:oauth:1.1.13@jar",
+          "name": "OAuth",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 172203,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionalon/oauth-1.1.13-1.16.jar",
+            "MD5": "3ef071b22fcf58c1e7b76fc957df202a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.corosus:out_of_sight:1.16.4-1.0.1@jar",
           "name": "Out of Sight",
           "type": "ForgeMod",
@@ -1940,6 +1953,20 @@
             "size": 32634,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/refinedstorageaddons-0.7.4.jar",
             "MD5": "d81c8d2571386f8e860c3521deab3341"
+          }
+        },
+        {
+          "id": "com.replaymod.core:replaymod:2.5.1@jar",
+          "name": "Replay Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10350454,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionaloff/replaymod-1.16.4-forge-1.0.1.jar",
+            "MD5": "d1f7ae3fb87c3de6f35d2b3a54476a19"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
