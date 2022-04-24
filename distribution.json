@@ -890,13 +890,13 @@
           }
         },
         {
-          "id": "com.seibel:lod:1.6.2a@jar",
+          "id": "com.seibel:lod:1.6.3a@jar",
           "name": "Distant Horizons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2196672,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionaloff/DistantHorizons-1.6.2a-1.16.5.jar",
-            "MD5": "ca585d9d7001eb4023fed5392e7ea2cd"
+            "size": 2566133,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionaloff/DistantHorizons-1.6.3a-1.16.5.jar",
+            "MD5": "29deca9a4f67153002867ce1db985b16"
           },
           "required": {
             "value": false,
