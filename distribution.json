@@ -1239,6 +1239,16 @@
           }
         },
         {
+          "id": "org.cyclops:integratedrest:1.1.5@jar",
+          "name": "IntegratedREST",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 135804,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/IntegratedREST-1.16.5-1.1.5.jar",
+            "MD5": "bad7b17c36ed57f0a36aa7f12354bffc"
+          }
+        },
+        {
           "id": "org.cyclops:integratedterminals:1.2.13@jar",
           "name": "IntegratedTerminals",
           "type": "ForgeMod",
@@ -1256,6 +1266,20 @@
             "size": 591877,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/IntegratedTunnels-1.16.5-1.8.9.jar",
             "MD5": "14b9b69540ca66fec869922617c291d1"
+          }
+        },
+        {
+          "id": "dlovin.inventoryhud:inventoryhud:3.4.1@jar",
+          "name": "Inventory HUD+(Forge edition)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 197654,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionaloff/InventoryHud-3.4.1.jar",
+            "MD5": "4fac0e508bc43ccd638fe2550a182cc3"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1777,6 +1801,20 @@
           }
         },
         {
+          "id": "net.coderbot.iris:oculus:1.2.3-pre@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1730019,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionaloff/oculus-1.2.3-pre.jar",
+            "MD5": "378f232fad685af8946bdb9308a77e4c"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "com.corosus:out_of_sight:1.16.4-1.0.1@jar",
           "name": "Out of Sight",
           "type": "ForgeMod",
@@ -2043,13 +2081,13 @@
           }
         },
         {
-          "id": "me.jellysquid.mods.sodium.client:rubidium:0.2.5@jar",
+          "id": "me.jellysquid.mods.sodium.client:rubidium:0.2.6@jar",
           "name": "Rubidium",
           "type": "ForgeMod",
           "artifact": {
-            "size": 564604,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionalon/rubidium-0.2.5.jar",
-            "MD5": "0594c7e9b3078b7a17b10f2cdaf36995"
+            "size": 565111,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionalon/rubidium-0.2.6.jar",
+            "MD5": "5ebd8a8aeee421879a492893729177ec"
           },
           "required": {
             "value": false
@@ -2156,6 +2194,16 @@
             "size": 40103,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/snad-1.0.9-forge.jar",
             "MD5": "ce85e5358a8b35740162896dc876cacc"
+          }
+        },
+        {
+          "id": "com.kevun1:solpotato:1.16.X-1.1.0@jar",
+          "name": "Spice of Life: Potato Edition",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 236729,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/solpotato-1.16.X-1.1.0.jar",
+            "MD5": "f62363898c7add555af778cc305462c4"
           }
         },
         {
@@ -2422,13 +2470,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.16.5-2.2.32@jar",
+          "id": "de.maxhenkel:voicechat:1.16.5-2.2.37@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5079872,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionalon/voicechat-forge-1.16.5-2.2.32.jar",
-            "MD5": "8ab23db860218c309527f5794930ff42"
+            "size": 5691678,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionalon/voicechat-forge-1.16.5-2.2.37.jar",
+            "MD5": "2fdd7fb58435e98f4424f8c4055999d2"
           },
           "required": {
             "value": false
