@@ -6760,6 +6760,17 @@
           }
         },
         {
+          "id": "integrated.zs",
+          "name": "integrated.zs",
+          "type": "File",
+          "artifact": {
+            "size": 106,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/scripts/integrated.zs",
+            "MD5": "e676477b4184f625d04c43a97d5d90a6",
+            "path": "scripts/integrated.zs"
+          }
+        },
+        {
           "id": "pretty_pipes.zs",
           "name": "pretty_pipes.zs",
           "type": "File",
@@ -6808,9 +6819,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 15339,
+            "size": 15333,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/servers.dat",
-            "MD5": "5f3fb839f0850b3b7bfac3c3f381a7a6",
+            "MD5": "6044c2bdf31210933631da557a110111",
             "path": "servers.dat"
           }
         }
