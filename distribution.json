@@ -2114,36 +2114,6 @@
           }
         },
         {
-          "id": "sereneseasons.core:sereneseasons:1.16.5-4.0.1.125@jar",
-          "name": "Serene Seasons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 148213,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/SereneSeasons-1.16.5-4.0.1.125-universal.jar",
-            "MD5": "4743b9a2b4c8b509bd1385df2bfb57f4"
-          }
-        },
-        {
-          "id": "darkorg.sereneseasonsphc2:sereneseasonsphc2:1.16.5-1.0.0@jar",
-          "name": "Serene Seasons PamHC2 Compat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5775,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/sereneseasonsphc2-1.16.5-1.0.0.jar",
-            "MD5": "a356b0870b58cafea3f73f426e47b37d"
-          }
-        },
-        {
-          "id": "uk.joshiejack:simplyseasons:1.16.5-1.0.17@jar",
-          "name": "Simply Seasons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 770551,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/Simply-Seasons-1.16.5-1.0.17.jar",
-            "MD5": "bf01713face04c458870e007b97de938"
-          }
-        },
-        {
           "id": "com.flanks255:simplybackpacks:1.16.5-2.0.2-build.30@jar",
           "name": "Simply Backpacks",
           "type": "ForgeMod",
@@ -5103,9 +5073,9 @@
           "name": "researches.json",
           "type": "File",
           "artifact": {
-            "size": 34399,
+            "size": 34810,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/config/the_vault/researches.json",
-            "MD5": "680143b836a7cb1bfb04aa17b53e70b8",
+            "MD5": "416a13ff9e7372b3766d0c4c3e046d79",
             "path": "config/the_vault/researches.json"
           }
         },

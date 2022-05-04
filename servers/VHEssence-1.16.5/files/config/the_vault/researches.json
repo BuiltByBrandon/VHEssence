@@ -785,17 +785,17 @@
         }
       },
       "name": "Pneumaticcraft",
-      "cost": 10,
+      "cost": 8,
       "usesKnowledge": true
     },
 	{
       "modIds": [
         "integrateddynamics",
         "integratedterminals",
-		"integratednbt",
-		"integratedtunnels",
-		"integratedadditions",
-		"integratedproxy"
+        "integratednbt",
+        "integratedtunnels",
+        "integratedadditions",
+        "integratedproxy"
       ],
       "restrictions": {
         "restricts": {
@@ -807,7 +807,7 @@
         }
       },
       "name": "Integrated Dynamics Suite",
-      "cost": 8,
+      "cost": 4,
       "usesKnowledge": true
     },
 	{
@@ -920,6 +920,20 @@
     {
       "itemRestrictions": {
         "appliedenergistics2:molecular_assembler": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "integratedcrafting:crafting_terminal": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "integratedcrafting:crafting_writer": {
           "restricts": {
             "HITTABILITY": true,
             "USABILITY": true,
