@@ -1506,6 +1506,20 @@
           }
         },
         {
+          "id": "fi.dy.masa:litematica:0.0.0-dev.20210917@jar",
+          "name": "Litematica",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 863337,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionaloff/litematica-forge-1.16.5-0.0.0-dev.20210917.jar",
+            "MD5": "11aa05f5a7c3ca7c4b97bf68e9cbf759"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "melonslise.locks:locks:3.0.3@jar",
           "name": "Locks",
           "type": "ForgeMod",
@@ -1539,6 +1553,20 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "fi.dy.masa:malilib:0.10.0-dev.21+beta.1@jar",
+          "name": "MaLiLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 401987,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionaloff/malilib-forge-1.16.5-0.10.0-dev.21+beta.1.jar",
+            "MD5": "41c5674c52fe9cba5c56edc717a2cfb0"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -2480,6 +2508,20 @@
             "size": 3285433,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/Wilds%20Version%202.8.jar",
             "MD5": "f45109dfd26931a83e1e05291d77ac7d"
+          }
+        },
+        {
+          "id": "com.sk89q:worldedit:7.2.5+57d5ac9@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5312767,
+            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/optionaloff/worldedit-mod-7.2.5-dist.jar",
+            "MD5": "96ff53c70d4a3ff9df5592462b0f0685"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
