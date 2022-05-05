@@ -141,7 +141,8 @@
     },
     {
       "modIds": [
-        "storagedrawers"
+        "storagedrawers",
+        "morestoragedrawers"
       ],
       "restrictions": {
         "restricts": {
@@ -899,19 +900,19 @@
     },
 	{
       "modIds": [
-        "chiselsandbits",
+        "framedblocks",
 		"rechiseled"
       ],
       "restrictions": {
         "restricts": {
           "HITTABILITY": false,
           "BLOCK_INTERACTABILITY": false,
-          "USABILITY": true,
+          "USABILITY": false,
           "CRAFTABILITY": true,
           "ENTITY_INTERACTABILITY": false
         }
       },
-      "name": "Chisels and Bits",
+      "name": "Chiseled and Frames",
       "cost": 1,
       "usesKnowledge": true
     }
