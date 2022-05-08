@@ -5115,9 +5115,9 @@
           "name": "researches.json",
           "type": "File",
           "artifact": {
-            "size": 34842,
+            "size": 34474,
             "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/files/config/the_vault/researches.json",
-            "MD5": "a8961093c2a3dfbfe5e259d9700098e4",
+            "MD5": "75cb0a20a0ed82decf0088f223e398a7",
             "path": "config/the_vault/researches.json"
           }
         },
