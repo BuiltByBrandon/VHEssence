@@ -1520,16 +1520,6 @@
           }
         },
         {
-          "id": "melonslise.locks:locks:3.0.3@jar",
-          "name": "Locks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 595126,
-            "url": "https://raw.githubusercontent.com/BuiltByBrandon/VHEssence/main/servers/VHEssence-1.16.5/forgemods/required/locks-1.16.5-3.0.3.jar",
-            "MD5": "9bfd12da806ee085e726b826cfc2ca74"
-          }
-        },
-        {
           "id": "com.lootbeams:lootbeams:1.16.5@jar",
           "name": "LootBeams",
           "type": "ForgeMod",
